@@ -1,0 +1,38 @@
+1.	相似度：1.87%     标题：《Sequence-to-Sequence Regression Using Deep Learning - MATLAB ...》
+来源：https://ww2.mathworks.cn/help/nnet/examples/sequence-to-sequence-regression-using-
+deep-learning.html
+2.	相似度：1.74%     标题：《系统集成项目管理工程师论文:浅述新兴的电子系统故障预测与健...》
+来源：http://wenku.baidu.com/view/e79488791711cc7931b71687.html
+3.	相似度：1.69%     标题：《PHM技术初识- 维修性测试性保障性91质量网讨论区》
+来源：http://bbs.91zhiliang.com/forum.php?mod=viewthread&ordertype=1&tid=4475
+4.	相似度：0.90%     标题：《故障预测与健康管理技术在核电站的应用pdf在线阅读_爱问共享资料》
+来源：http://ishare.iask.sina.com.cn/f/61826491.html
+5.	相似度：0.88%     标题：《Machine Learning Techniques for Predictive Maintenance》
+来源：https://www.infoq.com/articles/machine-learning-techniques-predictive-maintenance
+6.	相似度：0.69%     标题：《电子系统的故障预测与健康管理技术研究_图文_百度文库》
+来源：http://wenku.baidu.com/view/b34820d9c8d376eeaeaa31a7.html
+7.	相似度：0.49%     标题：《结合Scikit-learn介绍几种常用的特征选择方法 - 罗兵 - 博客园》
+来源：https://www.cnblogs.com/hhh5460/p/5186226.html
+8.	相似度：0.32%     标题：《复杂电子系统综合诊断与故障预测关键技术研究_百度文库》
+来源：http://wenku.baidu.com/view/7d028d3e02d8ce2f0066f5335a8102d276a26199.html
+9.	相似度：0.30%     标题：《数据挖掘导论英文chap4_basic_classification解读.ppt》
+来源：https://max.book118.com/html/2017/0331/98167376.shtm
+10.	相似度：0.30%     标题：《...关键技术突破项目招标公告(基于大数据驱动的设备故障预测与健康...》
+来源：
+https://sh.qihoo.com/ctranscode?title=...%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87%E5%85%AC%E5%91%8A%28%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8%E7%9A%84%E8%AE%BE%E5%A4%87%E6%95%85%E9%9A%9C%E9%A2%84%E6%B5%8B&u=http%3A%2F%2Fwww.sohu.com%2Fa%2F164872429_802070&m=8db3304bdb2355f7e90463dde6add9052ef718f1&q=%E9%80%9A%E8%BF%87%E8%AE%BE%E8%AE%A1%E6%9B%B4%E5%85%88%E8%BF%9B%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8A%80%E6%9C%AF%E8%8E%B7%E5%BE%97%E5%AF%B9%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E5%81%A5%E5%BA%B7%E7%8A%B6%E5%86%B5%E7%9A%84%E7%B2%BE%E7%A1%AE%E4%BC%B0%E8%AE%A1%E3%80%82
+11.	相似度：0.28%     标题：《Support vector regression methodology for prediction of ... Suppo》
+来源：https://link.springer.com/article/10.1007/s00477-015-1055-z
+12.	相似度：0.24%     标题：《【机器学习】K-means聚类算法初探 - CSDN博客》
+来源：https://blog.csdn.net/skyline0623/article/details/8154911
+13.	相似度：0.18%     标题：《构建机器学习系统- CSDN博客》
+来源：https://blog.csdn.net/qq_41455420/article/details/79669736
+14.	相似度：0.17%     标题：《聚类算法实践(一)——层次聚类、K-means聚类 - CSDN博客》
+来源：https://blog.csdn.net/xiaokang06/article/details/51441534
+15.	相似度：0.11%     标题：《第四章——训练模型（Training Models） - royhoo - 博客园》
+来源：http://www.cnblogs.com/royhoo/p/8696583.html
+16.	相似度：0.10%     标题：《了解这些基本分析技术将为为项目的开发和数据的理解带来更多的益处...》
+来源：http://www.elecfans.com/d/650619.html
+17.	相似度：0.08%     标题：《处理数据时不进行归一化会有什么影响?归一化的作用是什么?什么...》
+来源：https://www.zhihu.com/question/20455227
+18.	相似度：0.06%     标题：《【七】机器学习之路——训练集、测试集及如何划分 - CSDN博客》
+来源：https://blog.csdn.net/c369624808/article/details/78408047
